@@ -1,0 +1,65 @@
+{
+    "timestamp": "2025-08-06T15:06:23.200793",
+    "strategy_mode": "CALL_PUT",
+    "active_options": {},
+    "last_signal_time": {},
+    "consecutive_losses": {},
+    "daily_lockouts": {},
+    "wins": {},
+    "losses": {},
+    "ties": {},
+    "total_profit": 0.0,
+    "daily_profit": 0.0,
+    "monthly_profits": {},
+    "monthly_starting_capital": {
+        "2025-08": 10867.85
+    },
+    "monthly_stop_loss": false,
+    "stop_loss_triggered_month": null,
+    "absolute_stop_loss_activated": false,
+    "min_capital": 10867.85,
+    "last_date": "2025-08-06",
+    "current_month": "2025-08",
+    "daily_consecutive_wins": 0,
+    "daily_consecutive_losses": 0,
+    "daily_lock": false,
+    "daily_lock_time": null,
+    "daily_lock_reason": null,
+    "max_daily_consecutive": 2,
+    "recent_results": [],
+    "day_start_balance": 10867.85,
+    "rsi_history": {
+        "NVDA/AMD": [
+            53.22,
+            52.87,
+            53.06
+        ],
+        "META/GOOGLE": [
+            57.69,
+            58.88,
+            59.2
+        ],
+        "MSFT/AAPL": [
+            47.03,
+            47.41,
+            47.22
+        ],
+        "NFLX/AMZN": [
+            39.54,
+            38.87
+        ],
+        "BTCUSD": [
+            41.54,
+            42.16
+        ],
+        "MATICUSD": [
+            35.42,
+            35.24
+        ],
+        "ATOMUSD": [
+            29.96,
+            30.24
+        ]
+    },
+    "aggressiveness_mode": "BALANCED"
+}

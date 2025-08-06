@@ -1,0 +1,301 @@
+2025-08-06 14:34:38 | INFO | ============================================================
+2025-08-06 14:34:38 | INFO |    ESTRATEGIA ALGEBRA MULTI-ACTIVOS PARA OPTION
+2025-08-06 14:34:38 | INFO |    ⚡ LÓGICA INVERTIDA ⚡
+2025-08-06 14:34:38 | INFO | ============================================================
+2025-08-06 14:34:38 | INFO | 📅 Fecha/Hora: 2025-08-06 14:34:38
+2025-08-06 14:34:38 | INFO | 📧 Usuario: pab***@gmail.com
+2025-08-06 14:34:38 | INFO | ============================================================
+2025-08-06 14:34:38 | INFO | ⚠️ IMPORTANTE: Esta estrategia usa lógica INVERTIDA
+2025-08-06 14:34:38 | INFO |    - PUT cuando Algebra Inversa ≤ 35 (sobreventa)
+2025-08-06 14:34:38 | INFO |    - CALL cuando Algebra Inversa ≥ 65 (sobrecompra)
+2025-08-06 14:34:38 | INFO | ============================================================
+2025-08-06 14:34:38 | INFO | 🚀 Inicializando estrategia...
+2025-08-06 14:34:38 | INFO | 🎯 Pares seleccionados: NVDA/AMD, META/GOOGLE, MSFT/AAPL, NFLX/AMZN
+2025-08-06 14:34:38 | INFO | 🪙 Crypto seleccionados: BTCUSD, MATICUSD, ATOMUSD
+2025-08-06 14:34:38 | INFO | 💰 Tamaño de posición (legacy): 5%
+2025-08-06 14:34:38 | INFO | 📊 Tamaño de posición pares: 5%
+2025-08-06 14:34:38 | INFO | 🪙 Tamaño de posición crypto: 2%
+2025-08-06 14:34:38 | INFO | ⚡ Nivel de agresividad: balanceado
+2025-08-06 14:34:38 | INFO | 🎯 INICIANDO ESTRATEGIA ALGEBRA MULTI-ACTIVOS (LÓGICA INVERTIDA)
+2025-08-06 14:34:38 | INFO | 📊 Configuración: Niveles Algebra Inversa dinámicos por grupo de activos
+2025-08-06 14:34:38 | INFO | ⚡ LÓGICA INVERTIDA: PUT en sobreventa, CALL en sobrecompra
+2025-08-06 14:34:38 | INFO | 🎯 LÍMITE DE TRADES SIMULTÁNEOS: 1
+2025-08-06 14:34:38 | INFO | 🎯 PARES SELECCIONADOS: ['NVDA/AMD', 'META/GOOGLE', 'MSFT/AAPL', 'NFLX/AMZN']
+2025-08-06 14:34:38 | INFO | ✅ Par habilitado: NVDA/AMD
+2025-08-06 14:34:38 | INFO | ✅ Par habilitado: META/GOOGLE
+2025-08-06 14:34:38 | INFO | ✅ Par habilitado: MSFT/AAPL
+2025-08-06 14:34:38 | INFO | ✅ Par habilitado: NFLX/AMZN
+2025-08-06 14:34:38 | INFO | 🎯 Operando con 4 pares seleccionados
+2025-08-06 14:34:38 | INFO | 🪙 CRYPTO SELECCIONADOS: ['BTCUSD', 'MATICUSD', 'ATOMUSD']
+2025-08-06 14:34:38 | INFO | ✅ Crypto habilitado: BTCUSD
+2025-08-06 14:34:38 | INFO | ✅ Crypto habilitado: MATICUSD
+2025-08-06 14:34:38 | INFO | ✅ Crypto habilitado: ATOMUSD
+2025-08-06 14:34:38 | INFO | 🪙 Operando con 3 crypto seleccionados
+2025-08-06 14:34:38 | INFO | 💰 Tamaño de posición personalizado (legacy): 5%
+2025-08-06 14:34:38 | INFO | 📊 Tamaño de posición pares personalizado: 5%
+2025-08-06 14:34:38 | INFO | 🪙 Tamaño de posición crypto personalizado: 2%
+2025-08-06 14:34:38 | INFO | ⚡ Agresividad personalizada: balanceado → BALANCED
+2025-08-06 14:34:38 | INFO | ⚙️ Modo de agresividad: BALANCED (personalizado)
+2025-08-06 14:34:38 | INFO | 📊 Timeframe: 5 min | Expiración: 1 min | Fuerza mínima: 60%
+2025-08-06 14:34:38 | INFO | 🔗 Conectando a IQ Option...
+2025-08-06 14:34:41 | INFO | ✅ Conexión exitosa
+2025-08-06 14:34:41 | INFO | 💰 Balance actual: $10,867.85
+2025-08-06 14:34:41 | INFO | 💰 Capital inicial: $10,867.85
+2025-08-06 14:34:41 | INFO | 📂 No hay archivo de estado previo
+2025-08-06 14:34:41 | INFO | 🔍 Verificando activos disponibles...
+2025-08-06 14:34:46 | INFO | 
+⏹️ Estrategia detenida por el usuario
+2025-08-06 14:34:46 | INFO | 👋 Programa finalizado
+2025-08-06 14:42:37 | INFO | ============================================================
+2025-08-06 14:42:37 | INFO |    ESTRATEGIA ALGEBRA MULTI-ACTIVOS PARA OPTION
+2025-08-06 14:42:37 | INFO |    ⚡ LÓGICA INVERTIDA ⚡
+2025-08-06 14:42:37 | INFO | ============================================================
+2025-08-06 14:42:37 | INFO | 📅 Fecha/Hora: 2025-08-06 14:42:37
+2025-08-06 14:42:37 | INFO | 📧 Usuario: pab***@gmail.com
+2025-08-06 14:42:37 | INFO | ============================================================
+2025-08-06 14:42:37 | INFO | ⚠️ IMPORTANTE: Esta estrategia usa lógica INVERTIDA
+2025-08-06 14:42:37 | INFO |    - PUT cuando Algebra Inversa ≤ 35 (sobreventa)
+2025-08-06 14:42:37 | INFO |    - CALL cuando Algebra Inversa ≥ 65 (sobrecompra)
+2025-08-06 14:42:37 | INFO | ============================================================
+2025-08-06 14:42:37 | INFO | 🚀 Inicializando estrategia...
+2025-08-06 14:42:37 | INFO | 🎯 Pares seleccionados: NVDA/AMD, META/GOOGLE, MSFT/AAPL
+2025-08-06 14:42:37 | INFO | 🪙 Crypto seleccionados: BTCUSD, MATICUSD, ATOMUSD
+2025-08-06 14:42:37 | INFO | 💰 Tamaño de posición (legacy): 5%
+2025-08-06 14:42:37 | INFO | 📊 Tamaño de posición pares: 5%
+2025-08-06 14:42:37 | INFO | 🪙 Tamaño de posición crypto: 2%
+2025-08-06 14:42:37 | INFO | ⚡ Nivel de agresividad: balanceado
+2025-08-06 14:42:37 | INFO | 🎯 INICIANDO ESTRATEGIA ALGEBRA MULTI-ACTIVOS (LÓGICA INVERTIDA)
+2025-08-06 14:42:37 | INFO | 📊 Configuración: Niveles Algebra Inversa dinámicos por grupo de activos
+2025-08-06 14:42:37 | INFO | ⚡ LÓGICA INVERTIDA: PUT en sobreventa, CALL en sobrecompra
+2025-08-06 14:42:37 | INFO | 🎯 LÍMITE DE TRADES SIMULTÁNEOS: 1
+2025-08-06 14:42:37 | INFO | 🎯 PARES SELECCIONADOS: ['NVDA/AMD', 'META/GOOGLE', 'MSFT/AAPL']
+2025-08-06 14:42:37 | INFO | ✅ Par habilitado: NVDA/AMD
+2025-08-06 14:42:37 | INFO | ✅ Par habilitado: META/GOOGLE
+2025-08-06 14:42:37 | INFO | ✅ Par habilitado: MSFT/AAPL
+2025-08-06 14:42:37 | INFO | 🎯 Operando con 3 pares seleccionados
+2025-08-06 14:42:37 | INFO | 🪙 CRYPTO SELECCIONADOS: ['BTCUSD', 'MATICUSD', 'ATOMUSD']
+2025-08-06 14:42:37 | INFO | ✅ Crypto habilitado: BTCUSD
+2025-08-06 14:42:37 | INFO | ✅ Crypto habilitado: MATICUSD
+2025-08-06 14:42:37 | INFO | ✅ Crypto habilitado: ATOMUSD
+2025-08-06 14:42:37 | INFO | 🪙 Operando con 3 crypto seleccionados
+2025-08-06 14:42:37 | INFO | 💰 Tamaño de posición personalizado (legacy): 5%
+2025-08-06 14:42:37 | INFO | 📊 Tamaño de posición pares personalizado: 5%
+2025-08-06 14:42:37 | INFO | 🪙 Tamaño de posición crypto personalizado: 2%
+2025-08-06 14:42:37 | INFO | ⚡ Agresividad personalizada: balanceado → BALANCED
+2025-08-06 14:42:37 | INFO | ⚙️ Modo de agresividad: BALANCED (personalizado)
+2025-08-06 14:42:37 | INFO | 📊 Timeframe: 5 min | Expiración: 1 min | Fuerza mínima: 60%
+2025-08-06 14:42:37 | INFO | 🔗 Conectando a IQ Option...
+2025-08-06 14:42:40 | INFO | ✅ Conexión exitosa
+2025-08-06 14:42:40 | INFO | 💰 Balance actual: $10,867.85
+2025-08-06 14:42:40 | INFO | 💰 Capital inicial: $10,867.85
+2025-08-06 14:42:40 | INFO | 📂 No hay archivo de estado previo
+2025-08-06 14:42:40 | INFO | 🔍 Verificando activos disponibles...
+2025-08-06 14:42:46 | INFO | ✅ NVDA/AMD: Encontrado como NVDA/AMD-OTC (turbo) - Grupo: PAIR
+2025-08-06 14:42:46 | INFO | ✅ NVDA/AMD: Encontrado como NVDA/AMD-OTC (binary) - Grupo: PAIR
+2025-08-06 14:42:46 | INFO | ✅ META/GOOGLE: Encontrado como META/GOOGLE-OTC (turbo) - Grupo: PAIR
+2025-08-06 14:42:46 | INFO | ✅ META/GOOGLE: Encontrado como META/GOOGLE-OTC (binary) - Grupo: PAIR
+2025-08-06 14:42:46 | INFO | ✅ MSFT/AAPL: Encontrado como MSFT/AAPL-OTC (turbo) - Grupo: PAIR
+2025-08-06 14:42:46 | INFO | ✅ MSFT/AAPL: Encontrado como MSFT/AAPL-OTC (binary) - Grupo: PAIR
+2025-08-06 14:42:46 | INFO | ✅ BTCUSD: Encontrado como BTCUSD-op (binary) - Grupo: CRYPTO
+2025-08-06 14:42:46 | INFO | ✅ MATICUSD: Encontrado como MATICUSD-OTC (turbo) - Grupo: CRYPTO
+2025-08-06 14:42:46 | INFO | ✅ MATICUSD: Encontrado como MATICUSD-OTC (binary) - Grupo: CRYPTO
+2025-08-06 14:42:46 | INFO | ✅ ATOMUSD: Encontrado como ATOMUSD-OTC (turbo) - Grupo: CRYPTO
+2025-08-06 14:42:46 | INFO | ✅ ATOMUSD: Encontrado como ATOMUSD-OTC (binary) - Grupo: CRYPTO
+2025-08-06 14:42:46 | INFO | 📊 Total activos disponibles: 6
+2025-08-06 14:42:46 | INFO | 
+📊 CONFIGURACIÓN DE NIVELES ALGEBRA INVERSA POR GRUPO:
+2025-08-06 14:42:46 | INFO | ============================================================
+2025-08-06 14:42:46 | INFO | 
+PAIR:
+2025-08-06 14:42:46 | INFO |   Activos: NVDA/AMD, META/GOOGLE, MSFT/AAPL
+2025-08-06 14:42:46 | INFO |   Algebra Inversa Sobreventa/Sobrecompra: 32/68
+2025-08-06 14:42:46 | INFO |   Momentum mínimo: 4 puntos
+2025-08-06 14:42:46 | INFO |   Tamaño posición: 5% (personalizado)
+2025-08-06 14:42:46 | INFO | 
+CRYPTO:
+2025-08-06 14:42:46 | INFO |   Activos: BTCUSD, MATICUSD, ATOMUSD
+2025-08-06 14:42:46 | INFO |   Algebra Inversa Sobreventa/Sobrecompra: 35/65
+2025-08-06 14:42:46 | INFO |   Momentum mínimo: 5 puntos
+2025-08-06 14:42:46 | INFO |   Tamaño posición: 5% (personalizado)
+2025-08-06 14:42:46 | INFO | ============================================================
+2025-08-06 14:42:46 | INFO | 
+⚡ CONFIGURACIÓN DE SEÑALES:
+2025-08-06 14:42:46 | INFO |   Modo: BALANCED (personalizado)
+2025-08-06 14:42:46 | INFO |   Fuerza mínima: 60%
+2025-08-06 14:42:46 | INFO |   Cruces válidos: últimas 2 niveles dinámicos
+2025-08-06 14:42:46 | INFO |   Permitir rebotes: Sí
+2025-08-06 14:42:46 | INFO |   Máx rebotes: 1 de hasta 2 puntos
+2025-08-06 14:42:46 | INFO |   🎯 Máximo trades simultáneos: 1
+2025-08-06 14:42:46 | INFO | ============================================================
+2025-08-06 14:42:46 | INFO | ✅ Sistema iniciado - Detectando momentum real con validación dinámica
+2025-08-06 14:42:46 | INFO | 🎯 Iniciando operaciones...
+2025-08-06 14:42:46 | INFO | ℹ️ Para detener la estrategia, desactiva el switch en el dashboard
+2025-08-06 14:42:46 | INFO | 🚀 Iniciando estrategia ALGEBRA Multi-Activos (LÓGICA INVERTIDA)
+2025-08-06 14:42:46 | INFO | 📊 Configuración: 6 activos disponibles
+2025-08-06 14:42:46 | INFO | ⚙️ Modo: BALANCED (personalizado) - Balance entre cantidad y calidad
+2025-08-06 14:42:46 | INFO | 📊 Algebra Inversa en timeframe de 5 minutos
+2025-08-06 14:42:46 | INFO | ⏱️ Expiración de opciones: 1 minutos
+2025-08-06 14:42:46 | INFO | ⏰ Tiempo entre señales: 60 minutos
+2025-08-06 14:42:46 | INFO | 🔄 Bloqueo diario después de 2 operaciones consecutivas (wins o losses)
+2025-08-06 14:42:46 | INFO | 🎯 Máximo 1 trade(s) simultáneo(s)
+2025-08-06 14:42:46 | INFO | 💪 Fuerza mínima de señal: 60%
+2025-08-06 14:42:46 | INFO | 🆕 Solo cruces frescos en últimas 2 niveles dinámicos
+2025-08-06 14:42:48 | INFO | ⏹️ Estrategia detenida por el usuario
+2025-08-06 14:42:48 | INFO | 🏁 Finalizando estrategia...
+2025-08-06 14:42:49 | INFO | ============================================================
+2025-08-06 14:42:49 | INFO | 📊 RESUMEN DE LA ESTRATEGIA ALGEBRA MULTI-ACTIVOS (LÓGICA INVERTIDA)
+2025-08-06 14:42:49 | INFO | ============================================================
+2025-08-06 14:42:49 | INFO | ⚡ Estrategia: PUT en sobreventa (Algebra Inversa dinámico), CALL en sobrecompra (Algebra Inversa dinámico)
+2025-08-06 14:42:49 | INFO | ⚙️ Modo: BALANCED - Balance entre cantidad y calidad
+2025-08-06 14:42:49 | INFO | 🎯 Límite de trades simultáneos: 1
+2025-08-06 14:42:49 | INFO | 💰 Capital Inicial: $10,867.85
+2025-08-06 14:42:49 | INFO | 💰 Balance Final: $10,867.85
+2025-08-06 14:42:49 | INFO | 📈 Rendimiento Total: 0.00%
+2025-08-06 14:42:49 | INFO | 🎯 Total Operaciones: 0
+2025-08-06 14:42:49 | INFO | 💵 Beneficio Neto: $0.00
+2025-08-06 14:42:49 | INFO | 📉 Capital Mínimo: $10,867.85
+2025-08-06 14:42:49 | INFO | 
+📊 Estadísticas por Activo (agrupadas por tipo):
+2025-08-06 14:42:49 | INFO | 
+📅 Rendimiento Mensual:
+2025-08-06 14:42:49 | INFO | ============================================================
+2025-08-06 14:42:49 | INFO | 👋 Estrategia finalizada
+2025-08-06 14:42:49 | INFO | 👋 Programa finalizado
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO |    ESTRATEGIA ALGEBRA MULTI-ACTIVOS PARA OPTION
+2025-08-06 14:54:44 | INFO |    ⚡ LÓGICA INVERTIDA ⚡
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO | 📅 Fecha/Hora: 2025-08-06 14:54:44
+2025-08-06 14:54:44 | INFO | 📧 Usuario: pab***@gmail.com
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO | ⚠️ IMPORTANTE: Esta estrategia usa lógica INVERTIDA
+2025-08-06 14:54:44 | INFO |    - PUT cuando Algebra Inversa ≤ 35 (sobreventa)
+2025-08-06 14:54:44 | INFO |    - CALL cuando Algebra Inversa ≥ 65 (sobrecompra)
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO | 🚀 Inicializando estrategia...
+2025-08-06 14:54:44 | INFO | 🎯 Pares seleccionados: NVDA/AMD, META/GOOGLE, MSFT/AAPL, NFLX/AMZN
+2025-08-06 14:54:44 | INFO | 🪙 Crypto seleccionados: BTCUSD, MATICUSD, ATOMUSD
+2025-08-06 14:54:44 | INFO | 💰 Tamaño de posición (legacy): 5%
+2025-08-06 14:54:44 | INFO | 📊 Tamaño de posición pares: 5%
+2025-08-06 14:54:44 | INFO | 🪙 Tamaño de posición crypto: 2%
+2025-08-06 14:54:44 | INFO | ⚡ Nivel de agresividad: balanceado
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO |    ESTRATEGIA ALGEBRA MULTI-ACTIVOS PARA OPTION
+2025-08-06 14:54:44 | INFO |    ⚡ LÓGICA INVERTIDA ⚡
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO | 📅 Fecha/Hora: 2025-08-06 14:54:44
+2025-08-06 14:54:44 | INFO | 📧 Usuario: pab***@gmail.com
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO | ⚠️ IMPORTANTE: Esta estrategia usa lógica INVERTIDA
+2025-08-06 14:54:44 | INFO |    - PUT cuando Algebra Inversa ≤ 35 (sobreventa)
+2025-08-06 14:54:44 | INFO |    - CALL cuando Algebra Inversa ≥ 65 (sobrecompra)
+2025-08-06 14:54:44 | INFO | ============================================================
+2025-08-06 14:54:44 | INFO | 🚀 Inicializando estrategia...
+2025-08-06 14:54:44 | INFO | 🎯 Pares seleccionados: NVDA/AMD, META/GOOGLE, MSFT/AAPL, NFLX/AMZN
+2025-08-06 14:54:44 | INFO | 🪙 Crypto seleccionados: BTCUSD, MATICUSD, ATOMUSD
+2025-08-06 14:54:44 | INFO | 💰 Tamaño de posición (legacy): 5%
+2025-08-06 14:54:44 | INFO | 📊 Tamaño de posición pares: 5%
+2025-08-06 14:54:44 | INFO | 🪙 Tamaño de posición crypto: 2%
+2025-08-06 14:54:44 | INFO | ⚡ Nivel de agresividad: balanceado
+2025-08-06 14:54:44 | INFO | 🎯 INICIANDO ESTRATEGIA ALGEBRA MULTI-ACTIVOS (LÓGICA INVERTIDA)
+2025-08-06 14:54:44 | INFO | 📊 Configuración: Niveles Algebra Inversa dinámicos por grupo de activos
+2025-08-06 14:54:44 | INFO | ⚡ LÓGICA INVERTIDA: PUT en sobreventa, CALL en sobrecompra
+2025-08-06 14:54:44 | INFO | 🎯 LÍMITE DE TRADES SIMULTÁNEOS: 1
+2025-08-06 14:54:44 | INFO | 🎯 PARES SELECCIONADOS: ['NVDA/AMD', 'META/GOOGLE', 'MSFT/AAPL', 'NFLX/AMZN']
+2025-08-06 14:54:44 | INFO | ✅ Par habilitado: NVDA/AMD
+2025-08-06 14:54:44 | INFO | ✅ Par habilitado: META/GOOGLE
+2025-08-06 14:54:44 | INFO | ✅ Par habilitado: MSFT/AAPL
+2025-08-06 14:54:44 | INFO | ✅ Par habilitado: NFLX/AMZN
+2025-08-06 14:54:44 | INFO | 🎯 Operando con 4 pares seleccionados
+2025-08-06 14:54:44 | INFO | 🪙 CRYPTO SELECCIONADOS: ['BTCUSD', 'MATICUSD', 'ATOMUSD']
+2025-08-06 14:54:44 | INFO | ✅ Crypto habilitado: BTCUSD
+2025-08-06 14:54:44 | INFO | ✅ Crypto habilitado: MATICUSD
+2025-08-06 14:54:44 | INFO | ✅ Crypto habilitado: ATOMUSD
+2025-08-06 14:54:44 | INFO | 🪙 Operando con 3 crypto seleccionados
+2025-08-06 14:54:44 | INFO | 💰 Tamaño de posición personalizado (legacy): 5%
+2025-08-06 14:54:44 | INFO | 📊 Tamaño de posición pares personalizado: 5%
+2025-08-06 14:54:44 | INFO | 🪙 Tamaño de posición crypto personalizado: 2%
+2025-08-06 14:54:44 | INFO | ⚡ Agresividad personalizada: balanceado → BALANCED
+2025-08-06 14:54:44 | INFO | ⚙️ Modo de agresividad: BALANCED (personalizado)
+2025-08-06 14:54:44 | INFO | 📊 Timeframe: 5 min | Expiración: 1 min | Fuerza mínima: 60%
+2025-08-06 14:54:44 | INFO | 🔗 Conectando a IQ Option...
+2025-08-06 14:54:46 | INFO | ✅ Conexión exitosa
+2025-08-06 14:54:46 | INFO | 💰 Balance actual: $10,867.85
+2025-08-06 14:54:47 | INFO | 💰 Capital inicial: $10,867.85
+2025-08-06 14:54:47 | INFO | ✅ Estado cargado desde 2025-08-06T14:42:48.845971
+2025-08-06 14:54:47 | INFO | 🔍 Verificando activos disponibles...
+2025-08-06 14:54:53 | INFO | ✅ NVDA/AMD: Encontrado como NVDA/AMD-OTC (turbo) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ NVDA/AMD: Encontrado como NVDA/AMD-OTC (binary) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ META/GOOGLE: Encontrado como META/GOOGLE-OTC (turbo) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ META/GOOGLE: Encontrado como META/GOOGLE-OTC (binary) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ MSFT/AAPL: Encontrado como MSFT/AAPL-OTC (turbo) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ MSFT/AAPL: Encontrado como MSFT/AAPL-OTC (binary) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ NFLX/AMZN: Encontrado como NFLX/AMZN-OTC (turbo) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ NFLX/AMZN: Encontrado como NFLX/AMZN-OTC (binary) - Grupo: PAIR
+2025-08-06 14:54:53 | INFO | ✅ BTCUSD: Encontrado como BTCUSD-op (binary) - Grupo: CRYPTO
+2025-08-06 14:54:53 | INFO | ✅ MATICUSD: Encontrado como MATICUSD-OTC (turbo) - Grupo: CRYPTO
+2025-08-06 14:54:53 | INFO | ✅ MATICUSD: Encontrado como MATICUSD-OTC (binary) - Grupo: CRYPTO
+2025-08-06 14:54:53 | INFO | ✅ ATOMUSD: Encontrado como ATOMUSD-OTC (turbo) - Grupo: CRYPTO
+2025-08-06 14:54:53 | INFO | ✅ ATOMUSD: Encontrado como ATOMUSD-OTC (binary) - Grupo: CRYPTO
+2025-08-06 14:54:53 | INFO | 📊 Total activos disponibles: 7
+2025-08-06 14:54:53 | INFO | 
+📊 CONFIGURACIÓN DE NIVELES ALGEBRA INVERSA POR GRUPO:
+2025-08-06 14:54:53 | INFO | ============================================================
+2025-08-06 14:54:53 | INFO | 
+PAIR:
+2025-08-06 14:54:53 | INFO |   Activos: NVDA/AMD, META/GOOGLE, MSFT/AAPL, NFLX/AMZN
+2025-08-06 14:54:53 | INFO |   Algebra Inversa Sobreventa/Sobrecompra: 32/68
+2025-08-06 14:54:53 | INFO |   Momentum mínimo: 4 puntos
+2025-08-06 14:54:53 | INFO |   Tamaño posición: 5% (personalizado)
+2025-08-06 14:54:53 | INFO | 
+CRYPTO:
+2025-08-06 14:54:53 | INFO |   Activos: BTCUSD, MATICUSD, ATOMUSD
+2025-08-06 14:54:53 | INFO |   Algebra Inversa Sobreventa/Sobrecompra: 35/65
+2025-08-06 14:54:53 | INFO |   Momentum mínimo: 5 puntos
+2025-08-06 14:54:53 | INFO |   Tamaño posición: 5% (personalizado)
+2025-08-06 14:54:53 | INFO | ============================================================
+2025-08-06 14:54:53 | INFO | 
+⚡ CONFIGURACIÓN DE SEÑALES:
+2025-08-06 14:54:53 | INFO |   Modo: BALANCED (personalizado)
+2025-08-06 14:54:53 | INFO |   Fuerza mínima: 60%
+2025-08-06 14:54:53 | INFO |   Cruces válidos: últimas 2 niveles dinámicos
+2025-08-06 14:54:53 | INFO |   Permitir rebotes: Sí
+2025-08-06 14:54:53 | INFO |   Máx rebotes: 1 de hasta 2 puntos
+2025-08-06 14:54:53 | INFO |   🎯 Máximo trades simultáneos: 1
+2025-08-06 14:54:53 | INFO | ============================================================
+2025-08-06 14:54:53 | INFO | ✅ Sistema iniciado - Detectando momentum real con validación dinámica
+2025-08-06 14:54:53 | INFO | 🎯 Iniciando operaciones...
+2025-08-06 14:54:53 | INFO | ℹ️ Para detener la estrategia, desactiva el switch en el dashboard
+2025-08-06 14:54:53 | INFO | 🎯 Iniciando operaciones...
+2025-08-06 14:54:53 | INFO | ℹ️ Para detener la estrategia, desactiva el switch en el dashboard
+2025-08-06 14:54:53 | INFO | 🚀 Iniciando estrategia ALGEBRA Multi-Activos (LÓGICA INVERTIDA)
+2025-08-06 14:54:53 | INFO | 📊 Configuración: 7 activos disponibles
+2025-08-06 14:54:53 | INFO | ⚙️ Modo: BALANCED (personalizado) - Balance entre cantidad y calidad
+2025-08-06 14:54:53 | INFO | 📊 Algebra Inversa en timeframe de 5 minutos
+2025-08-06 14:54:53 | INFO | ⏱️ Expiración de opciones: 1 minutos
+2025-08-06 14:54:53 | INFO | ⏰ Tiempo entre señales: 60 minutos
+2025-08-06 14:54:53 | INFO | 🔄 Bloqueo diario después de 2 operaciones consecutivas (wins o losses)
+2025-08-06 14:54:53 | INFO | 🎯 Máximo 1 trade(s) simultáneo(s)
+2025-08-06 14:54:53 | INFO | 💪 Fuerza mínima de señal: 60%
+2025-08-06 14:54:53 | INFO | 🆕 Solo cruces frescos en últimas 2 niveles dinámicos
+2025-08-06 14:54:54 | INFO | ⏹️ Estrategia detenida por el usuario
+2025-08-06 14:54:54 | INFO | 🏁 Finalizando estrategia...
+2025-08-06 14:54:54 | INFO | ============================================================
+2025-08-06 14:54:54 | INFO | 📊 RESUMEN DE LA ESTRATEGIA ALGEBRA MULTI-ACTIVOS (LÓGICA INVERTIDA)
+2025-08-06 14:54:54 | INFO | ============================================================
+2025-08-06 14:54:54 | INFO | ⚡ Estrategia: PUT en sobreventa (Algebra Inversa dinámico), CALL en sobrecompra (Algebra Inversa dinámico)
+2025-08-06 14:54:54 | INFO | ⚙️ Modo: BALANCED - Balance entre cantidad y calidad
+2025-08-06 14:54:54 | INFO | 🎯 Límite de trades simultáneos: 1
+2025-08-06 14:54:54 | INFO | 💰 Capital Inicial: $10,867.85
+2025-08-06 14:54:54 | INFO | 💰 Balance Final: $10,867.85
+2025-08-06 14:54:54 | INFO | 📈 Rendimiento Total: 0.00%
+2025-08-06 14:54:54 | INFO | 🎯 Total Operaciones: 0
+2025-08-06 14:54:54 | INFO | 💵 Beneficio Neto: $0.00
+2025-08-06 14:54:54 | INFO | 📉 Capital Mínimo: $10,867.85
+2025-08-06 14:54:54 | INFO | 
+📊 Estadísticas por Activo (agrupadas por tipo):
+2025-08-06 14:54:54 | INFO | 
+📅 Rendimiento Mensual:
+2025-08-06 14:54:54 | INFO | ============================================================
+2025-08-06 14:54:54 | INFO | 👋 Estrategia finalizada
+2025-08-06 14:54:54 | INFO | 👋 Programa finalizado

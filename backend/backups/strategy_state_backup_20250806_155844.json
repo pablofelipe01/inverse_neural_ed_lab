@@ -1,0 +1,123 @@
+{
+    "timestamp": "2025-08-06T15:58:33.146018",
+    "strategy_mode": "CALL_PUT",
+    "active_options": {},
+    "last_signal_time": {},
+    "consecutive_losses": {},
+    "daily_lockouts": {},
+    "wins": {},
+    "losses": {},
+    "ties": {},
+    "total_profit": 0.0,
+    "daily_profit": 0.0,
+    "monthly_profits": {},
+    "monthly_starting_capital": {
+        "2025-08": 10867.85
+    },
+    "monthly_stop_loss": false,
+    "stop_loss_triggered_month": null,
+    "absolute_stop_loss_activated": false,
+    "min_capital": 10867.85,
+    "last_date": "2025-08-06",
+    "current_month": "2025-08",
+    "daily_consecutive_wins": 0,
+    "daily_consecutive_losses": 0,
+    "daily_lock": false,
+    "daily_lock_time": null,
+    "daily_lock_reason": null,
+    "max_daily_consecutive": 2,
+    "recent_results": [],
+    "day_start_balance": 10867.85,
+    "rsi_history": {
+        "NVDA/AMD": [
+            41.63,
+            42.09,
+            41.66,
+            42.26,
+            43.55
+        ],
+        "TESLA/FORD": [
+            41.26,
+            40.76,
+            39.78,
+            40.87,
+            40.89
+        ],
+        "META/GOOGLE": [
+            58.38,
+            57.97,
+            59.65,
+            59.82,
+            60.63
+        ],
+        "AMZN/ALIBABA": [
+            41.27,
+            40.57,
+            40.58,
+            39.66,
+            40.87
+        ],
+        "MSFT/AAPL": [
+            48.46,
+            48.62,
+            48.94,
+            48.97,
+            49.06
+        ],
+        "AMZN/EBAY": [
+            41.05,
+            42.92,
+            42.79,
+            43.24,
+            42.28
+        ],
+        "NFLX/AMZN": [
+            21.8,
+            21.91,
+            21.69
+        ],
+        "GOOGLE/MSFT": [
+            59.74,
+            60.6,
+            60.03,
+            61.26,
+            61.19
+        ],
+        "INTEL/IBM": [
+            51.69,
+            51.12,
+            50.44,
+            50.73,
+            49.53
+        ],
+        "BTCUSD": [
+            40.6,
+            40.35,
+            40.4,
+            41.21,
+            41.51
+        ],
+        "ETHUSD": [
+            53.85,
+            54.61,
+            53.92,
+            55.18,
+            55.69
+        ],
+        "ATOMUSD": [
+            37.68,
+            38.4,
+            40.13,
+            40.99,
+            42.08
+        ],
+        "ARBUSD": [
+            47.89,
+            47.59,
+            48.16,
+            49.06,
+            47.79
+        ]
+    },
+    "aggressiveness_mode": "BALANCED"
+}

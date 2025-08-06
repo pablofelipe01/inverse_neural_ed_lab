@@ -1,0 +1,90 @@
+{
+    "timestamp": "2025-08-06T16:31:42.403807",
+    "strategy_mode": "CALL_PUT",
+    "active_options": {},
+    "last_signal_time": {
+        "GOOGLE/MSFT": "2025-08-06T16:00:46.078761"
+    },
+    "consecutive_losses": {
+        "GOOGLE/MSFT": 0
+    },
+    "daily_lockouts": {},
+    "wins": {
+        "GOOGLE/MSFT": 1
+    },
+    "losses": {},
+    "ties": {},
+    "total_profit": 1005.2715000000001,
+    "daily_profit": 461.5499999999993,
+    "monthly_profits": {},
+    "monthly_starting_capital": {
+        "2025-08": 10867.85
+    },
+    "monthly_stop_loss": false,
+    "stop_loss_triggered_month": null,
+    "absolute_stop_loss_activated": false,
+    "min_capital": 10324.85,
+    "last_date": "2025-08-06",
+    "current_month": "2025-08",
+    "daily_consecutive_wins": 1,
+    "daily_consecutive_losses": 0,
+    "daily_lock": false,
+    "daily_lock_time": null,
+    "daily_lock_reason": null,
+    "max_daily_consecutive": 2,
+    "recent_results": [
+        "win"
+    ],
+    "day_start_balance": 10867.85,
+    "rsi_history": {
+        "NVDA/AMD": [
+            39.82
+        ],
+        "TESLA/FORD": [
+            35.39
+        ],
+        "META/GOOGLE": [
+            69.14
+        ],
+        "AMZN/ALIBABA": [
+            58.79
+        ],
+        "MSFT/AAPL": [
+            46.07
+        ],
+        "AMZN/EBAY": [
+            40.6
+        ],
+        "NFLX/AMZN": [
+            19.8
+        ],
+        "INTEL/IBM": [
+            63.26
+        ],
+        "BTCUSD": [
+            45.61
+        ],
+        "ETHUSD": [
+            52.27
+        ],
+        "MATICUSD": [
+            70.72
+        ],
+        "NEARUSD": [
+            29.2
+        ],
+        "ATOMUSD": [
+            64.06
+        ],
+        "DOTUSD": [
+            38.94
+        ],
+        "ARBUSD": [
+            46.78
+        ],
+        "LINKUSD": [
+            77.86
+        ]
+    },
+    "aggressiveness_mode": "BALANCED"
+}
