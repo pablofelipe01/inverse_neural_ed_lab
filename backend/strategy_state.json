@@ -1,0 +1,87 @@
+{
+    "timestamp": "2025-08-07T10:55:25.872638",
+    "strategy_mode": "CALL_PUT",
+    "active_options": {},
+    "last_signal_time": {},
+    "consecutive_losses": {},
+    "daily_lockouts": {},
+    "wins": {},
+    "losses": {},
+    "ties": {},
+    "total_profit": 0.0,
+    "daily_profit": 0.0,
+    "monthly_profits": {},
+    "monthly_starting_capital": {
+        "2025-08": 11329.4
+    },
+    "monthly_stop_loss": false,
+    "stop_loss_triggered_month": null,
+    "absolute_stop_loss_activated": false,
+    "min_capital": 11329.4,
+    "last_date": "2025-08-07",
+    "current_month": "2025-08",
+    "daily_consecutive_wins": 0,
+    "daily_consecutive_losses": 0,
+    "daily_lock": false,
+    "daily_lock_time": null,
+    "daily_lock_reason": null,
+    "max_daily_consecutive": 2,
+    "recent_results": [],
+    "day_start_balance": 11329.4,
+    "rsi_history": {
+        "NVDA/AMD": [
+            48.01,
+            47.41,
+            48.89,
+            48.97,
+            48.3
+        ],
+        "META/GOOGLE": [
+            49.25,
+            48.07,
+            46.74,
+            47.17,
+            46.01
+        ],
+        "MSFT/AAPL": [
+            51.46,
+            52.52,
+            50.11,
+            51.44,
+            52.1
+        ],
+        "NFLX/AMZN": [
+            30.25
+        ],
+        "INTEL/IBM": [
+            63.38,
+            63.3,
+            63.46,
+            64.7,
+            65.86
+        ],
+        "ETHUSD": [
+            67.21
+        ],
+        "NEARUSD": [
+            48.4,
+            48.07,
+            47.69,
+            48.52,
+            48.29
+        ],
+        "DOTUSD": [
+            52.91,
+            53.62,
+            54.98,
+            55.89,
+            57.1
+        ],
+        "LINKUSD": [
+            33.59,
+            31.86,
+            31.4
+        ]
+    },
+    "aggressiveness_mode": "AGGRESSIVE"
+}
